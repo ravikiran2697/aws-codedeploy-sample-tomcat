@@ -5,7 +5,7 @@
   <artifactId>SampleMavenTomcatApp</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>SampleMavenTomcatApp Maven Webapp</name>
+  <name>AWS Sample</name>
   <url>http://maven.apache.org</url>
   
   <properties>
